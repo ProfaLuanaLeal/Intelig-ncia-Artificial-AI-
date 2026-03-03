@@ -1,4 +1,3 @@
-# Intelig-ncia-Artificial-AI-
 # I Visão dos Paradigmas de IA
 
 Este repositório contém materiais e informações sobre a disciplina "Visão dos Paradigmas de Inteligência Artificial (IA)". Nesta disciplina, abordaremos diversos conceitos e técnicas fundamentais para a compreensão e aplicação de IA em diferentes contextos.
@@ -64,8 +63,12 @@ Este repositório contém materiais e informações sobre a disciplina "Visão d
 
 - Algoritmos de otimização baseados no comportamento coletivo de colônias de formigas.
 
-## Conclusão
+## Bibliografia Básica
 
-Nesta disciplina, os alunos terão a oportunidade de explorar diferentes paradigmas da inteligência artificial, aplicando técnicas e métodos para resolver problemas práticos e desenvolver sistemas inteligentes.
+- Valdat i, Aline de Brittos. *Inteligência Artificial IA*. Curitiba: Contentus, 2020. (Biblioteca virtual Pearson).
+- Russell, Stuart; Norvig, Peter. *Inteligência Artificial*. 3.ed. Rio de Janeiro: LTC, 2021. (Minha Biblioteca).
+- Kaufman, Dora. *Desmistificando a Inteligência Artificial*. Belo Horizonte: Autêntica, 2022. (Biblioteca virtual Pearson).
 
-Para mais materiais e referências, consulte os materiais complementares disponibilizados ao longo do curso.
+## Consulta e Estudo
+
+Para mais informações e materiais de estudo, consulte [este link](https://quaint-dish-4a7.notion.site/Intelig-ncia-Artificial-AI-2fbaf69172ee807d8a33ef9d9a4c6ee0).
